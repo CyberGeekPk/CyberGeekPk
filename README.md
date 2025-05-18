@@ -42,24 +42,6 @@ Provide tools and break them down into categories.
 </div> -->
 
 ## Certifications
-<div>
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA" target="_blank">
-  <img src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/HHKNCTNKFD27?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse" target="_blank">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials-CC0000?style=for-the-badge&logo=ESET&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/account/accomplishments/certificate/8P4TKLBB7ZHP" target="_blank">
-  <img src="https://img.shields.io/badge/LearnQuest%20Linux%20Fundamentals-00599C?style=for-the-badge&logo=linux&logoColor=white" />
-</a>
-
-</div>
-
-### Certifications
-
 "Lifelong learning is essential to cybersecurity mastery."
 
 <div align="center">
