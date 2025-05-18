@@ -20,9 +20,9 @@ Currently, I’m actively working through:
 
 These learning paths are helping me strengthen both my **technical skills** and **practical knowledge** in cybersecurity operations.
 
----
-
 ## Objective
+
+---
 
 Eager to get into Cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a L1 - SOC Analyst.
 
@@ -61,6 +61,9 @@ Provide tools and break them down into categories.
 </div> -->
 
 ## Certifications
+
+---
+
 "Lifelong learning is essential to cybersecurity mastery."
 
 <div>
@@ -108,6 +111,8 @@ Provide tools and break them down into categories.
 
 ## Education
 
+---
+
 <div> 
   <table>
     <tr>
@@ -126,6 +131,8 @@ Provide tools and break them down into categories.
 </div>
 
 ## Course Documentation
+
+---
 
 <div>
 
@@ -168,6 +175,8 @@ Provide tools and break them down into categories.
 
 
 ## Projects
+
+---
 
 | Project Name                                         | Completion Month        | Documentation         |
 |-----------------------------------------------|----------------------------|----------------------------|
