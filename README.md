@@ -20,9 +20,8 @@ Currently, I’m actively working through:
 
 These learning paths are helping me strengthen both my **technical skills** and **practical knowledge** in cybersecurity operations.
 
-## Objective
+--- ## Objective
 
----
 
 Eager to get into Cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a L1 - SOC Analyst.
 
