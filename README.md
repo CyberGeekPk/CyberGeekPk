@@ -6,9 +6,9 @@
 
 ---
 
-### About Me
+## About Me
 
-My name is *Muhammad Talha*, and I’m a *CS Graduate* focused on learning and building expertise in:
+My name is **Muhammad Talha**, and I’m a **CS Graduate** focused on learning and building expertise in:
 
 - **Cybersecurity**
 - **Security Operations Center (SOC)**  
@@ -21,9 +21,6 @@ Currently, I’m actively working through:
 These learning paths are helping me strengthen both my **technical skills** and **practical knowledge** in cybersecurity operations.
 
 ---
-
-> 💬 *“Stay curious. Stay secure.”*
-
 
 ## Objective
 
