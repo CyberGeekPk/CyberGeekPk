@@ -3,6 +3,34 @@
 
  My name is Muhammad Talha and I’m a CS Graduate focused on learning and building expertise for Cybersecurity and Security Operations Center
  (SOC), actively working on SOC Analyst Learning Path by LetsDefend & IBM Cybersecurity Analyst Specialization to strengthen my knowledge and technical skills.
+
+# 👨‍💻 Welcome to my GitHub Portfolio  
+
+<a href="https://www.linkedin.com/in/muhammad-talha-atd/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+### 🧑‍🎓 About Me
+
+My name is **Muhammad Talha**, and I’m a **CS Graduate** focused on learning and building expertise in:
+
+- 🛡️ **Cybersecurity**
+- 🧭 **Security Operations Center (SOC)**  
+
+Currently, I’m actively working through:
+
+- 🎯 **SOC Analyst Learning Path** by [LetsDefend](https://letsdefend.io)  
+- 🧠 **IBM Cybersecurity Analyst Specialization**  
+
+These learning paths are helping me strengthen both my **technical skills** and **practical knowledge** in cybersecurity operations.
+
+---
+
+> 💬 *“Stay curious. Stay secure.”*
+
+
 ## Objective
 
 Eager to get into Cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a L1 - SOC Analyst.
