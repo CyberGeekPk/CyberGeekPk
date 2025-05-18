@@ -58,11 +58,9 @@ Provide tools and break them down into categories.
 
 </div>
 
-## 🎓 Certifications
+### Certifications
 
-> "Lifelong learning is essential to cybersecurity mastery."
-
-### 📜 Highlights of My Certified Expertise
+"Lifelong learning is essential to cybersecurity mastery."
 
 <div align="center">
 
@@ -71,7 +69,7 @@ Provide tools and break them down into categories.
     <td align="center">
       <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" /><br>
-        <sub><strong>Google Cybersecurity Specialization</strong></sub>
+        
       </a>
     </td>
     <td align="center">
