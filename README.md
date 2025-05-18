@@ -131,12 +131,6 @@ Provide tools and break them down into categories.
 
 ## Course Documentation
 
-| Courses                                         | Completion Month        | Documentation         |
-|-----------------------------------------------|----------------------------|----------------------------|
-| Google Cybersecurity Professional Specialization | Apr 2025        | <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG">Course Certificate</a>|
-| CISCO Security Operations Center (SOC) | Apr 2025 | <a href="https://github.com/CyberGeekPk/Cybersecurity-Operations-Fundamentals-Specialization-by-CISCO#course-1--security-operations-center-soc">Course Notes</a>|
-| IBM Cybersecurity Analyst Specialization | In Progress | <a href="https://github.com/CyberGeekPk/IBM-Cybersecurity-Analyst-Notes#ibm-cybersecurity-analyst-notes">Course Documentation</a>| 
-
 <div align="center">
 
   <table>
