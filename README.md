@@ -62,40 +62,7 @@ Provide tools and break them down into categories.
 
 "Lifelong learning is essential to cybersecurity mastery."
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank">
-        <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" /><br>
-        
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA" target="_blank">
-        <img src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /><br>
-        <sub><strong>SOC Analyst by Cisco</strong></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.coursera.org/account/accomplishments/verify/HHKNCTNKFD27" target="_blank">
-        <img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials-CC0000?style=for-the-badge&logo=ESET&logoColor=white" /><br>
-        <sub><strong>Ethical Hacking Essentials</strong></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.coursera.org/account/accomplishments/certificate/8P4TKLBB7ZHP" target="_blank">
-        <img src="https://img.shields.io/badge/Linux%20Fundamentals-00599C?style=for-the-badge&logo=linux&logoColor=white" /><br>
-        <sub><strong>LearnQuest Linux Fundamentals</strong></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+<div align="center"> <table> <tr> <td> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank"> <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> </a> </td> <td> <a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA" target="_blank"> <img src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /> </a> </td> </tr> <tr> <td> <a href="https://www.coursera.org/account/accomplishments/verify/HHKNCTNKFD27" target="_blank"> <img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials-CC0000?style=for-the-badge&logo=ESET&logoColor=white" /> </a> </td> <td> <a href="https://www.coursera.org/account/accomplishments/certificate/8P4TKLBB7ZHP" target="_blank"> <img src="https://img.shields.io/badge/Linux%20Fundamentals-00599C?style=for-the-badge&logo=linux&logoColor=white" /> </a> </td> </tr> </table> </div>
 
 ## Education
 
