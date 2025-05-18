@@ -131,7 +131,7 @@ Provide tools and break them down into categories.
 
 ## Course Documentation
 
-<div align="center">
+<div>
 
   <table>
     <tr>
