@@ -1,10 +1,4 @@
-# Welcome to my GitHub Portfolio
-<a href="https://www.linkedin.com/in/muhammad-talha-atd/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
- My name is Muhammad Talha and I’m a CS Graduate focused on learning and building expertise for Cybersecurity and Security Operations Center
- (SOC), actively working on SOC Analyst Learning Path by LetsDefend & IBM Cybersecurity Analyst Specialization to strengthen my knowledge and technical skills.
-
-# 👨‍💻 Welcome to my GitHub Portfolio  
+# Welcome to my GitHub Portfolio  
 
 <a href="https://www.linkedin.com/in/muhammad-talha-atd/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,7 +6,7 @@
 
 ---
 
-### 🧑‍🎓 About Me
+### About Me
 
 My name is **Muhammad Talha**, and I’m a **CS Graduate** focused on learning and building expertise in:
 
