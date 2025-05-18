@@ -58,6 +58,54 @@ Provide tools and break them down into categories.
 
 </div>
 
+## 🎓 Certifications
+
+> "Lifelong learning is essential to cybersecurity mastery."
+
+### 📜 Highlights of My Certified Expertise
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" /><br>
+        <sub><strong>Google Cybersecurity Specialization</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA" target="_blank">
+        <img src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /><br>
+        <sub><strong>SOC Analyst by Cisco</strong></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/HHKNCTNKFD27" target="_blank">
+        <img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials-CC0000?style=for-the-badge&logo=ESET&logoColor=white" /><br>
+        <sub><strong>Ethical Hacking Essentials</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/certificate/8P4TKLBB7ZHP" target="_blank">
+        <img src="https://img.shields.io/badge/Linux%20Fundamentals-00599C?style=for-the-badge&logo=linux&logoColor=white" /><br>
+        <sub><strong>LearnQuest Linux Fundamentals</strong></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+🛠️ *All certificates verified and earned via Coursera from leading institutions such as Google, Cisco, and ESET.*
+
+📌 *You can also find more on my [LinkedIn](https://www.linkedin.com/) or by exploring the `certificates/` folder of this repository.*
+
+
 ## Education
 
 ### BS Computer Science - July 2024
