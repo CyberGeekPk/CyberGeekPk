@@ -58,65 +58,10 @@ Provide tools and break them down into categories.
 
 </div>
 
-<!-- GitHub renders HTML blocks -->
-<div align="center">
+🛡️ Certifications
+"In a world of constant threats, knowledge is your first line of defense."
 
-  <style>
-    .cert-card {
-      border: 1px solid #00FFCB;
-      border-radius: 8px;
-      padding: 15px;
-      width: 280px;
-      background-color: #0D1117;
-      color: #00FFCB;
-      font-family: monospace;
-      margin: 10px;
-      display: inline-block;
-      vertical-align: top;
-      box-shadow: 0 0 10px #00FFCB88;
-    }
-    .cert-title {
-      font-size: 16px;
-      font-weight: bold;
-    }
-    .cert-org {
-      font-size: 14px;
-      color: #38BDF8;
-    }
-    .cert-link a {
-      color: #22D3EE;
-      text-decoration: none;
-    }
-  </style>
-
-  <div class="cert-card">
-    <div class="cert-title">Google Cybersecurity</div>
-    <div class="cert-org">Google via Coursera</div>
-    <div class="cert-link"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG">View Certificate →</a></div>
-  </div>
-
-  <div class="cert-card">
-    <div class="cert-title">SOC Analyst (Level 1)</div>
-    <div class="cert-org">Cisco / Coursera</div>
-    <div class="cert-link"><a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA">View Certificate →</a></div>
-  </div>
-
-  <div class="cert-card">
-    <div class="cert-title">Ethical Hacking Essentials</div>
-    <div class="cert-org">ESET / Coursera</div>
-    <div class="cert-link"><a href="https://www.coursera.org/account/accomplishments/verify/HHKNCTNKFD27">View Certificate →</a></div>
-  </div>
-
-  <div class="cert-card">
-    <div class="cert-title">Linux Fundamentals</div>
-    <div class="cert-org">LearnQuest / Coursera</div>
-    <div class="cert-link"><a href="https://www.coursera.org/account/accomplishments/certificate/8P4TKLBB7ZHP">View Certificate →</a></div>
-  </div>
-
-</div>
-
-
-
+<div align="center"> <table> <tr> <td align="center" width="220"> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank"> <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-0F9D58?style=for-the-badge&logo=google&logoColor=white" /> <br/><sub><strong>Google Cybersecurity Specialization</strong></sub> </a> </td> <td align="center" width="220"> <a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA" target="_blank"> <img src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <br/><sub><strong>SOC Analyst by Cisco</strong></sub> </a> </td> </tr> <tr> <td align="center" width="220"> <a href="https://www.coursera.org/account/accomplishments/verify/HHKNCTNKFD27" target="_blank"> <img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials-CC0000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /> <br/><sub><strong>Ethical Hacking Essentials</strong></sub> </a> </td> <td align="center" width="220"> <a href="https://www.coursera.org/account/accomplishments/certificate/8P4TKLBB7ZHP" target="_blank"> <img src="https://img.shields.io/badge/Linux%20Fundamentals-000000?style=for-the-badge&logo=linux&logoColor=white" /> <br/><sub><strong>LearnQuest Linux Fundamentals</strong></sub> </a> </td> </tr> </table> </div>
 ## Education
 
 ### BS Computer Science - July 2024
