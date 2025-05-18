@@ -1,26 +1,83 @@
-[![MasterHead](https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/Banner.jpg?raw=true)](https://debugginghuman.com)
-<h1 align="center">Hi 👋, I'm Anees Ahmad</h1>
-<h3 align="center">A passionate Full Stack Developer & UI/UX Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/iAneesAhmad/vector-illustration/blob/main/assets/display-img.png?raw=true">
+# Welcome to my GitHub Portfolio
+<a href="https://www.linkedin.com/in/muhammad-talha-atd/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 📫 How to reach me **ianeesahmad.pk@gmail.com**
+ My name is Muhammad Talha and I’m a CS Graduate focused on learning and building expertise for Cybersecurity and Security Operations Center
+ (SOC), actively working on SOC Analyst Learning Path by LetsDefend & IBM Cybersecurity Analyst Specialization to strengthen my knowledge and technical skills.
+## Objective
 
-- 📄 Know about my experiences [click me](https://www.linkedin.com/in/ianeesahmad/)
+Eager to get into Cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a L1 - SOC Analyst.
 
-- ⚡ Fun fact **I think I am funny**
+<!-- ## Skills 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ianeesahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesahmad" height="30" width="40" /></a>
-<a href="https://fb.com/iAneesAhmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aneesahmad" height="30" width="40" /></a>
-<a href="https://instagram.com/aneesahmad.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aneesahmad" height="30" width="40" /></a>
-</p>
+| Skills                                        | Associated Projects        |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab| 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## Tools
+Provide tools and break them down into categories.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianeesahmad&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ianeesahmad" /></p>
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianeesahmad&show_icons=true&theme=tokyonight&locale=en" alt="ianeesahmad" /></p>
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianeesahmad&theme=tokyonight&locale=en" alt="ianeesahmad" /></p>
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div> -->
+
+## Certifications
+<div>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA" target="_blank">
+  <img src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/HHKNCTNKFD27?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse" target="_blank">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials-CC0000?style=for-the-badge&logo=ESET&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/8P4TKLBB7ZHP" target="_blank">
+  <img src="https://img.shields.io/badge/LearnQuest%20Linux%20Fundamentals-00599C?style=for-the-badge&logo=linux&logoColor=white" />
+</a>
+
+</div>
+
+## Education
+
+### BS Computer Science - July 2024
+- Abbottabad University of Science & Technology (AUST)
+- CGPA : 3.6/4.0
+
+## Course Documentation
+
+| Courses                                         | Completion Month        | Documentation         |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Google Cybersecurity Professional Specialization | Apr 2025        | <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG">Course Certificate</a>|
+| CISCO Security Operations Center (SOC) | Apr 2025 | <a href="https://github.com/CyberGeekPk/Cybersecurity-Operations-Fundamentals-Specialization-by-CISCO#course-1--security-operations-center-soc">Course Notes</a>|
+| IBM Cybersecurity Analyst Specialization | In Progress | <a href="https://github.com/CyberGeekPk/IBM-Cybersecurity-Analyst-Notes#ibm-cybersecurity-analyst-notes">Course Documentation</a>| 
+
+## Projects
+
+| Project Name                                         | Completion Month        | Documentation         |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Mock Enterprise Network Setup with Security Analysis and Implementation | May 2025 | <a href="https://github.com/CyberGeekPk/IBM-Cybersecurity-Analyst-Notes/blob/main/course5/module5.md#module-5---final-project"> Link to Project</a>|
+| System Administration and Security | May 2025 | <a href="https://github.com/CyberGeekPk/IBM-Cybersecurity-Analyst-Notes/blob/main/course4/module5.md"> Link to Project</a>|
+| Configuring Windows Firewall with Advanced Security | Apr 2025 | <a href="https://github.com/CyberGeekPk/Configuring-Windows-Firewall-with-Advanced-Security">Link to Project</a>|
+
+
