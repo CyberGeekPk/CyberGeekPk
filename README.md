@@ -112,6 +112,13 @@ Provide tools and break them down into categories.
 - Abbottabad University of Science & Technology (AUST)
 - CGPA : 3.6/4.0
 
+<div align="center"> <table> <tr> <td> <img src="https://img.shields.io/badge/Bachelor's%20in%20Computer%20Science-0A66C2?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BS Computer Science Badge" /> </td> </tr> </table> <br/>
+BS Computer Science – July 2024
+Abbottabad University of Science & Technology (AUST)
+CGPA: 3.6 / 4.0
+
+</div>
+
 ## Course Documentation
 
 | Courses                                         | Completion Month        | Documentation         |
