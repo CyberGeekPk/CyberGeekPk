@@ -63,7 +63,7 @@ Provide tools and break them down into categories.
 ## Certifications
 "Lifelong learning is essential to cybersecurity mastery."
 
-<div align="center">
+<div>
 
   <table>
     <tr>
@@ -112,7 +112,7 @@ Provide tools and break them down into categories.
 - Abbottabad University of Science & Technology (AUST)
 - CGPA : 3.6/4.0
 
-<div align="center"> 
+<div> 
   <table>
     <tr>
       <th align="center">Degree</th> 
@@ -135,9 +135,9 @@ Provide tools and break them down into categories.
 
   <table>
     <tr>
-      <th>Course</th>
-      <th>Completion</th>
-      <th>Documentation</th>
+      <th align="center">Course</th>
+      <th align="center">Completion</th>
+      <th align="center">Documentation</th>
     </tr>
     <tr>
       <td>Google Cybersecurity Professional Specialization</td>
