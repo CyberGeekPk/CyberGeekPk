@@ -62,7 +62,48 @@ Provide tools and break them down into categories.
 
 "Lifelong learning is essential to cybersecurity mastery."
 
-<div align="center"> <table> <tr> <td> <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank"> <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> </a> </td> <td> <a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA" target="_blank"> <img src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /> </a> </td> </tr> <tr> <td> <a href="https://www.coursera.org/account/accomplishments/verify/HHKNCTNKFD27" target="_blank"> <img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials-CC0000?style=for-the-badge&logo=ESET&logoColor=white" /> </a> </td> <td> <a href="https://www.coursera.org/account/accomplishments/certificate/8P4TKLBB7ZHP" target="_blank"> <img src="https://img.shields.io/badge/Linux%20Fundamentals-00599C?style=for-the-badge&logo=linux&logoColor=white" /> </a> </td> </tr> </table> </div>
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank">
+          <img 
+            src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" 
+            alt="Google Cybersecurity Professional Certificate"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.coursera.org/account/accomplishments/verify/A3ZTS9PT4QTA" target="_blank">
+          <img 
+            src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" 
+            alt="SOC Analyst Certificate by Cisco"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.coursera.org/account/accomplishments/verify/HHKNCTNKFD27" target="_blank">
+          <img 
+            src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials-CC0000?style=for-the-badge&logo=ESET&logoColor=white" 
+            alt="Ethical Hacking Essentials Certificate"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.coursera.org/account/accomplishments/certificate/8P4TKLBB7ZHP" target="_blank">
+          <img 
+            src="https://img.shields.io/badge/Linux%20Fundamentals-00599C?style=for-the-badge&logo=linux&logoColor=white" 
+            alt="Linux Fundamentals Certificate"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ## Education
 
