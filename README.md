@@ -137,6 +137,49 @@ Provide tools and break them down into categories.
 | CISCO Security Operations Center (SOC) | Apr 2025 | <a href="https://github.com/CyberGeekPk/Cybersecurity-Operations-Fundamentals-Specialization-by-CISCO#course-1--security-operations-center-soc">Course Notes</a>|
 | IBM Cybersecurity Analyst Specialization | In Progress | <a href="https://github.com/CyberGeekPk/IBM-Cybersecurity-Analyst-Notes#ibm-cybersecurity-analyst-notes">Course Documentation</a>| 
 
+<div align="center">
+
+  <table>
+    <tr>
+      <th>Course</th>
+      <th>Completion</th>
+      <th>Documentation</th>
+    </tr>
+
+    <tr>
+      <td>Google Cybersecurity Professional Specialization</td>
+      <td>Apr 2025</td>
+      <td>
+        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VYAP3UAZYVNG" target="_blank">
+          Course Certificate
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>CISCO Security Operations Center (SOC)</td>
+      <td>Apr 2025</td>
+      <td>
+        <a href="https://github.com/CyberGeekPk/Cybersecurity-Operations-Fundamentals-Specialization-by-CISCO#course-1--security-operations-center-soc" target="_blank">
+          Course Notes
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>IBM Cybersecurity Analyst Specialization</td>
+      <td>In Progress</td>
+      <td>
+        <a href="https://github.com/CyberGeekPk/IBM-Cybersecurity-Analyst-Notes#ibm-cybersecurity-analyst-notes" target="_blank">
+          Course Documentation
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
 ## Projects
 
 | Project Name                                         | Completion Month        | Documentation         |
