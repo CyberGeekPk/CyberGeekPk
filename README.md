@@ -145,7 +145,6 @@ Provide tools and break them down into categories.
       <th>Completion</th>
       <th>Documentation</th>
     </tr>
-
     <tr>
       <td>Google Cybersecurity Professional Specialization</td>
       <td>Apr 2025</td>
@@ -155,7 +154,6 @@ Provide tools and break them down into categories.
         </a>
       </td>
     </tr>
-
     <tr>
       <td>CISCO Security Operations Center (SOC)</td>
       <td>Apr 2025</td>
@@ -165,7 +163,6 @@ Provide tools and break them down into categories.
         </a>
       </td>
     </tr>
-
     <tr>
       <td>IBM Cybersecurity Analyst Specialization</td>
       <td>In Progress</td>
