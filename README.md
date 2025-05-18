@@ -112,7 +112,22 @@ Provide tools and break them down into categories.
 - Abbottabad University of Science & Technology (AUST)
 - CGPA : 3.6/4.0
 
-<div align="center"> <table> <tr> <th align="center">Degree</th> <th align="center">Institution</th> <th align="center">Graduation</th> <th align="center">CGPA</th> </tr> <tr> <td>BS Computer Science</td> <td>Abbottabad University of Science & Technology (AUST)</td> <td>July 2024</td> <td>3.6 / 4.0</td> </tr> </table> </div>
+<div align="center"> 
+  <table>
+    <tr>
+      <th align="center">Degree</th> 
+      <th align="center">Institution</th> 
+      <th align="center">Graduation</th> 
+      <th align="center">CGPA</th> 
+    </tr> 
+    <tr> 
+      <td>BS Computer Science</td> 
+      <td>Abbottabad University of Science & Technology (AUST)</td> 
+      <td>July 2024</td> 
+      <td>3.6 / 4.0</td> 
+    </tr> 
+  </table> 
+</div>
 
 ## Course Documentation
 
