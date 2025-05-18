@@ -108,10 +108,6 @@ Provide tools and break them down into categories.
 
 ## Education
 
-### BS Computer Science - July 2024
-- Abbottabad University of Science & Technology (AUST)
-- CGPA : 3.6/4.0
-
 <div> 
   <table>
     <tr>
