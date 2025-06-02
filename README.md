@@ -141,7 +141,7 @@ Worked on securing a mock user management app by identifying and fixing vulnerab
 Implemented solutions using **OWASP ZAP**, **bcrypt.js**, **JWT**, and **helmet.js**.  
 Performed basic **penetration testing** (Nmap, ZAP), enforced security best practices, and integrated logging with **Winston**.
 
-[View Internship Repository](https://github.com/your-username/your-internship-repo)
+[View Internship Repository](https://github.com/CyberGeekPk/Cybersecurity-Internship---DeveloperHub-Corporation)
 
 ---
 
