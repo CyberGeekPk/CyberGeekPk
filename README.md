@@ -133,6 +133,18 @@ Provide tools and break them down into categories.
 
 ---
 
+## Cybersecurity Internship – DeveloperHub Corp. (Remote)  
+- **Duration**: 6 Weeks  
+- **Focus**: Web Application Security
+
+Worked on securing a mock user management app by identifying and fixing vulnerabilities such as **XSS**, **SQL Injection**, **weak password storage**, and **broken access control**.  
+Implemented solutions using **OWASP ZAP**, **bcrypt.js**, **JWT**, and **helmet.js**.  
+Performed basic **penetration testing** (Nmap, ZAP), enforced security best practices, and integrated logging with **Winston**.
+
+[View Internship Repository](https://github.com/your-username/your-internship-repo)
+
+---
+
 ## Course Documentation
 
 <div>
